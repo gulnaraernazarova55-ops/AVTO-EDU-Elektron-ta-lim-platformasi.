@@ -1,0 +1,6 @@
+{
+  "name": "AVTO EDU — Automotive Engine Diagnostics",
+  "description": "Multilingual automotive engineering e-learning platform covering engine diagnostics, OBD-II fault analysis, video lessons, interactive tools, and certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
